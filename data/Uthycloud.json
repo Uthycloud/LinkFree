@@ -10,17 +10,17 @@
       "icon": "FaTwitter"
     },
     {
-      "name": "connect on linkedin",
+      "name": "Connect with me on Linkedin",
       "url": "https://linkedin.com/in/uthmandevops",
       "icon": "FaLinkedin"
     },
     {
-      "name": "github",
-      "url": "https://github/uthycloud",
+      "name": "Github",
+      "url": "https://github.com/uthycloud",
       "icon": "FaGithub"
     },
     {
-      "name": "my blog",
+      "name": "Check out my blog",
       "url": "https://uthy.hashnode.dev",
       "icon": "FaHashnode"
     }
